@@ -1,0 +1,33 @@
+.newsletter-container {
+    
+    border: 1px solid #bfdbfe;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px; 
+    margin: 20px auto; 
+    text-align: center;
+}
+
+.newsletter-title {
+    color: #1e40af;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.newsletter-text {
+    font-size: 0.9em;
+    color:#4b5563;
+    margin-bottom: 15px;
+}
+
+.newsletter-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.newsletter-button:hover {
+    background-color: #1d4ed8;
+}

@@ -1,0 +1,29 @@
+.cours-container {
+    background-color: #f9fafb;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 100%;
+    max-width: 350px; 
+    margin: 20px auto;
+}
+
+.cours-title {
+    font-size: 18px;
+    color: #1f2937;
+    border-bottom: 2px solid #2563eb;
+    padding-bottom: 5px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.cours-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.cours-item {
+    display: flex;
+    justify-content: space-between; 
+}
